@@ -1,6 +1,6 @@
 ### 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeLee94&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeLee94&show_icons=true&theme=merko)
 
 <!--
 **jeLee94/jeLee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
